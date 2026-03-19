@@ -5,7 +5,7 @@
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </h3>
 
-## Software Developer and Data Science Enthusiast
+## Software Backend Developer and Data Science Enthusiast
 
 Aspiring Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
 
