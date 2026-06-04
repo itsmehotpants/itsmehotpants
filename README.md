@@ -11,15 +11,14 @@
   </a>
 </p>
 
-## Software Backend Developer and Data Science Enthusiast
-
-Aspiring Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
+## Builder. Problem Solver. Backend & ML Engineer. 🏆
+Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
 
 I have built full-stack AI/ML-powered platforms, optimized backend pipelines, and engineered scalable services. With experience in competitive programming, I bring strong analytical thinking and a passion for backend architecture, distributed computing, and building resilient systems at scale.
 
 * 🌍&nbsp; I'm based in **Jaipur, Rajasthan**
 * ✉️&nbsp; You can contact me at [thisisnamanagrawal@gmail.com](mailto:thisisnamanagrawal@gmail.com)
-* 🧠&nbsp; I'm currently learning **Java + Springboot**
+* 🧠&nbsp;  Currently deepening expertise in **System Design & Distributed Systems**
 * 👥&nbsp; I'm looking to collaborate on [LinkedIn](https://www.linkedin.com/in/naman-agrawal-8671aa27b/)
 
 ---
@@ -49,6 +48,8 @@ I have built full-stack AI/ML-powered platforms, optimized backend pipelines, an
 
 ### 🤝 Socials
 
+### 🤝 Socials
+
 <p align="left">
   <a href="https://www.github.com/itsmehotpants" target="_blank" rel="noreferrer">
     <picture>
@@ -63,6 +64,12 @@ I have built full-stack AI/ML-powered platforms, optimized backend pipelines, an
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
+  </a>
+  <a href="https://leetcode.com/u/Naman_the_Ace/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="LeetCode" title="LeetCode Knight | Rating: 2114" />
+  </a>
+  <a href="https://codeforces.com/profile/its_me_hotpants" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="32" height="32" alt="Codeforces" title="Codeforces Specialist | Rating: 1438" />
   </a>
 </p>
 
