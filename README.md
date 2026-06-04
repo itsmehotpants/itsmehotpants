@@ -5,6 +5,12 @@
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </h3>
 
+<p align="center">
+  <a href="https://naman-verse.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Naman-0E5484?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 ## Software Backend Developer and Data Science Enthusiast
 
 Aspiring Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
