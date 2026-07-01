@@ -48,6 +48,26 @@ I have built full-stack AI/ML-powered platforms, optimized backend pipelines, an
 
 ### 🤝 Socials
 
+
+## DSA 
+
+<p align="center">
+  <a href="https://leetcode.com/u/Naman_the_Ace/">
+    <img src="https://img.shields.io/badge/LeetCode-Guardian_🔰_2135-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Problems_Solved-1500+-22C55E?style=for-the-badge"/>
+  &nbsp;
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u//">
+    <img src="https://leetcard.jacoblin.cool/Naman_the_Ace?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Socials
 
 <p align="left">
